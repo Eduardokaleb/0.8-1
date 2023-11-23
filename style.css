@@ -1,0 +1,10 @@
+.container {
+    width: 350px;
+    justify-content: center;
+    border: 0cap;
+
+}
+.button {
+    display: flex;
+    justify-content: space-between;
+}
